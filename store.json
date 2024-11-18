@@ -1,20 +1,18 @@
 {
-    "storeInfo": {
-        "name": "MikePinku's Official Unistore",
-        "description": "A collection of awesome stuff for your 3DS! Actual Version : v0.1",
-        "author": "pinkythegawd",
-        "version": "0.1"
-    },
-    "storeContent": [
-        {
-            "title": "FourthTube",
-            "author": "erievs",
-            "version": "b28",
-            "description": "A work-in-progress homebrew YouTube client for the 3DS",
-            "icon": "icon.png",
-            "cia": "FourthTube.cia",
-            "size": 4170000,
-            "url": "https://github.com/erievs/FourthTube/releases/download/b28/FourthTube.cia",
-            "last_updated": "2024-11-02 at 00:00 (UTC)"
-
-        {
+   "storeInfo":{
+      "name":"MikePinku's Official Unistore",
+      "description":"A collection of awesome stuff for your 3DS! Actual Version : v0.1",
+      "author":"pinkythegawd",
+      "version":"0.1"
+   },
+   "storeContent":[
+      {
+         "title":"FourthTube",
+         "author":"erievs",
+         "version":"b28",
+         "description":"A work-in-progress homebrew YouTube client for the 3DS",
+         "icon":"icon.png",
+         "cia":"FourthTube.cia",
+         "size":4170000,
+         "url":"https://github.com/erievs/FourthTube/releases/download/b28/FourthTube.cia",
+         "last_updated":"2024-11-02 at 00:00 (UTC)"{
